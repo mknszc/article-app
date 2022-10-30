@@ -4,9 +4,9 @@
 API that can be used to publish articles and create comments
 
 ## Requirements
-    Laravel 9.7.0
+    Laravel 
 
-    Php 8.0.2
+    Php 
 
     Sail for Docker
     
