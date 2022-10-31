@@ -22,7 +22,7 @@ class ArticleController extends Controller
 		return response([
 			'message' => 'Articles',
 			'articles' => $articles
-		], 201);
+		], 200);
 	}
 
 	public function store(ArticlePostRequest $request)
